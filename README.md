@@ -1,5 +1,5 @@
-# gamezonedata
-Background & Overview
+## gamezonedata
+#Background & Overview
 
 Gamezone is a leading gaming retailer that sells a wide range of products, including consoles, monitors, accessories, and gaming bundles. This project analyzes sales performance between December 2018 – March 2021, leveraging transaction-level data to uncover key drivers of revenue, trends in product sales, and marketing channel effectiveness.
 
